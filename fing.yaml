@@ -1,0 +1,3 @@
+app: "rtmp-restreamer"
+platform: "node"
+port: 3000
